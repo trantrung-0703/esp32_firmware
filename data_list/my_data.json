@@ -1,7 +1,13 @@
-
 {
+  "version": "1.0",
   "files": [
-    "cag01.hex",
-    "cag02.hex"
+    {
+      "name": "cap01.hex",
+      "url": "https://raw.githubusercontent.com/trantrung-0703/esp32_firmware/main/data_list/cap01.hex"
+    },
+    {
+      "name": "cap02.hex",
+      "url": "https://raw.githubusercontent.com/trantrung-0703/esp32_firmware/main/data_list/cap02.hex"
+    }
   ]
 }
